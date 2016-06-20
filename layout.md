@@ -11,3 +11,4 @@ textit_10_Aproksymacja_operatora_d__.tex
 textit_11_Stabilno_r_wna__.tex
 textit_12_Stabilno_r_wna__.tex
 textit_13_Stabilno_r_wna__.tex
+textit_14_Metody_wariacyjne_w__.tex
