@@ -1,2 +1,3 @@
 untitled.tex
 textit_2_R_wnanie_r__.tex
+textit_3_Zadania_poprawnie_postawione__.tex
