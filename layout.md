@@ -4,4 +4,4 @@ textit_3_Zadania_poprawnie_postawione__.tex
 textit_4_Metody_r_nicowe__.tex
 textit_5_Aproksymacja_operator_w__.tex
 textit_6_Metody_r_nicowe__.tex
-texit_7_Twierdzenie_Laxa_Filippowa__.tex
+textit_7_Twierdzenie_Laxa_Filippowa__.tex
