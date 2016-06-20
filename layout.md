@@ -17,3 +17,4 @@ textit_16_Metoda_Galerkina_schemat__.tex
 textit_17_Lemat_C_a__.tex
 textit_18_Twierdzenie_Laxa_Milgrama__.tex
 textit_19_Postulaty_konstrukcji_przestrzeni__.tex
+textit_20_Przyk_ady_przestrzeni__.tex
