@@ -9,3 +9,4 @@ textit_8_Aproksymacja_operatora_Laplace__.tex
 textit_9_Aproksymacja_dla_r__.tex
 textit_10_Aproksymacja_operatora_d__.tex
 textit_11_Stabilno_r_wna__.tex
+textit_12_Stabilno_r_wna__.tex
