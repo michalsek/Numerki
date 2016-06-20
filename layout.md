@@ -14,3 +14,4 @@ textit_13_Stabilno_r_wna__.tex
 textit_14_Metody_wariacyjne_w__.tex
 textit_15_Metoda_Ritza_metoda__.tex
 textit_16_Metoda_Galerkina_schemat__.tex
+textit_17_Lemat_C_a__.tex
