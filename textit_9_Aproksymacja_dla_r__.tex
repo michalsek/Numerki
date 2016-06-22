@@ -28,4 +28,13 @@ Mogę wyznaczyć $v^{n+1}_i$, jeśli znam wartości $v^{n}_{i-1}$, $v^{n}_{i}$, 
 
 $(L_{h\tau}\ v)(x, t^n) = 0$
 
-\textbf{1. Schemat niejawny}
+\textbf{2,3. Schemat niejawny, Crancha-Nicholsona}
+
+Rodzina schematów niejawnych
+
+$(L_{h\tau}\ v^n) = \frac{1}{2} (v^{n-1} - v^{n}) - L_h (\lambda v^{n+1} + (1-\lambda)v^{n})\ \ \ \ 0 \geqslant \lambda \geqslant 1$
+
+$(L_{h\tau}\ v^n) = 0$ - układ równań wektorowych $(v^n_1,\ ...,\ v^n_n)$
+
+dla $\lambda = \frac{1}{2}$ jest to schemat Cranka-Nicholson'a
+
