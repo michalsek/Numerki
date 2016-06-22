@@ -16,4 +16,8 @@ $v = \bar{Q_\tau} \rightarrow \mathbb{R}$
 
 Oznaczamy: $V^n_i = u(x_i,t^n)\ \ \ \ (x_t,t^n) \in Q_{n\tau}$
 
-$(L_{n\tau} v)(x_i, t^n) = \frac{1}{\tau} (v^{n+1}_i - v^n_i) - \frac{1}{\tau^2} ... (v^n_{i+1} - 2v^n_i + v^n_{i-1})$
+$(L_{h\tau} v)(x_i, t^n) = \frac{1}{\tau} (v^{n+1}_i - v^n_i) - \frac{1}{h^2} (v^n_{i+1} - 2v^n_i + v^n_{i-1})$
+
+$(L_{h\tau} v)(x, t^n) = \frac{1}{\tau} (v^{n+1}_x - v^n_x - (L_h v)(x, t^n)$
+
+$o(\tau, h^2)$ - błąd aproksymacji
