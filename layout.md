@@ -10,7 +10,7 @@ section_Aproksymacja_dla_r_wnania__.tex
 section_Aproksymacja_operatora_d_Alemberta__.tex
 section_Stabilno_r_wna_typu__1.tex
 section_Stabilno_r_wna_typu__.tex
-textit_13_Stabilno_r_wna__.tex
+section_Stabilno_r_wna_typu__2.tex
 textit_14_Metody_wariacyjne_w__.tex
 textit_15_Metoda_Ritza_metoda__.tex
 textit_16_Metoda_Galerkina_schemat__.tex
