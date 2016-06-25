@@ -8,6 +8,8 @@ $u = g\ \ \ \ \ \ \ \ \ \ (x,t) \in \partial D \times [0,T)$ warunki brzegowe, p
 
 $u(x,0) = \varphi\ \ \ \ \ \ \ \ \ \ \ \ \ x \in D$
 
+$P^b = (I - \alpha rC)^{-1}(I + r(1-\alpha)C)v^{n+1}$
+
 Metoda jawna $\alpha = 0$
 
 $n = 1\ \ \ \mu = 1 + r \lambda\ \ \ \mu _j = 1 + r \lambda _j \ \ \ j = 1,...,\Phi - 1 (???)$
@@ -19,3 +21,15 @@ $n = 1\ \ \ \mu = 1 + r \lambda\ \ \ \mu _j = 1 + r \lambda _j \ \ \ j = 1,...,\
 \[-2 \leqslant r \lambda _j \leqslant 0\ \ i\ \ \lambda _j < 0 \Rightarrow r \leqslant - \frac{2}{\lambda _j} \]
 
 $r = \frac{1}{2 sin^2 \frac{4(M-j)}{2M}} \leqslant \frac{1}{2m^2 \frac{\pi j}{2m}} \Rightarrow r \leqslant \frac{1}{2}$ - warunek stabilności
+
+Metoda niejawna
+
+$\alpha = 1\ \ \ \ \ \mu = \frac{1}{1 - r - \lambda _j}\ \ \ \  \left | \mu _j \right | < 1$
+
+$\forall r$ zachodzi stabilność
+
+Metoda Cranka-Nicolsona
+
+$\alpha = \frac{1}{2}\ \ \ \ \ \mu = \frac{1 + frac{1}{2}r \lambda _j}{1 - \frac{1}{2}r \lambda _j}  \left | \mu _j \right | < 1$
+
+\forall r$ zachodzi stabilnpość
