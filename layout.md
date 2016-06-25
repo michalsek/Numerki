@@ -19,4 +19,4 @@ section_Twierdzenie_Laxa_Milgrama_V__.tex
 section_Postulaty_konstrukcji_przestrzeni_typu__.tex
 section_Przyk_ady_przestrzeni_typu__.tex
 section_MES_elementy_tr_jk__.tex
-textit_22_Zbie_no_MES__.tex
+section_Zbie_no_MES__.tex
