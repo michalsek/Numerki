@@ -17,6 +17,6 @@ section_Metoda_Galerkina_schemat_post__.tex
 section_Lemat_C_a_i__.tex
 section_Twierdzenie_Laxa_Milgrama_V__.tex
 section_Postulaty_konstrukcji_przestrzeni_typu__.tex
-textit_20_Przyk_ady_przestrzeni__.tex
+section_Przyk_ady_przestrzeni_typu__.tex
 textit_21_MES_elementy_tr__.tex
 textit_22_Zbie_no_MES__.tex
