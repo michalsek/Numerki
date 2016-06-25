@@ -1,7 +1,7 @@
 untitled.tex
 section_R_wnanie_r_niczowe__.tex
 section_Zadania_poprawnie_postawione_Przyk__.tex
-section_4_Metody_r_nicowe__.tex
+section_Metody_r_nicowe_rozwi__.tex
 section_5_Aproksymacja_operator_w__.tex
 section_6_Metody_r_nicowe__.tex
 section_7_Twierdzenie_Laxa_Filippowa__.tex
