@@ -12,7 +12,7 @@ section_Stabilno_r_wna_typu__1.tex
 section_Stabilno_r_wna_typu__.tex
 section_Stabilno_r_wna_typu__2.tex
 section_Metody_wariacyjne_w_zagadnieniach__.tex
-textit_15_Metoda_Ritza_metoda__.tex
+section_Metoda_Ritza_metoda_wyznaczania__.tex
 textit_16_Metoda_Galerkina_schemat__.tex
 textit_17_Lemat_C_a__.tex
 textit_18_Twierdzenie_Laxa_Milgrama__.tex
