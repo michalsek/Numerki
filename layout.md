@@ -9,7 +9,7 @@ section_Aproksymacja_operatora_Laplace_a__.tex
 section_Aproksymacja_dla_r_wnania__.tex
 section_Aproksymacja_operatora_d_Alemberta__.tex
 textit_11_Stabilno_r_wna__.tex
-textit_12_Stabilno_r_wna__.tex
+section_Stabilno_r_wna_typu__.tex
 textit_13_Stabilno_r_wna__.tex
 textit_14_Metody_wariacyjne_w__.tex
 textit_15_Metoda_Ritza_metoda__.tex
