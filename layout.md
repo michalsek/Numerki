@@ -6,7 +6,7 @@ section_5_Aproksymacja_operator_w__.tex
 section_6_Metody_r_nicowe__.tex
 section_7_Twierdzenie_Laxa_Filippowa__.tex
 textit_8_Aproksymacja_operatora_Laplace__.tex
-textit_9_Aproksymacja_dla_r__.tex
+section_Aproksymacja_dla_r_wnania__.tex
 textit_10_Aproksymacja_operatora_d__.tex
 textit_11_Stabilno_r_wna__.tex
 textit_12_Stabilno_r_wna__.tex
