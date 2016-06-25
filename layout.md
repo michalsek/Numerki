@@ -1,6 +1,6 @@
 untitled.tex
 section_2_R_wnanie_r__.tex
-textit_3_Zadania_poprawnie_postawione__.tex
+section_3_Zadania_poprawnie_postawione__.tex
 textit_4_Metody_r_nicowe__.tex
 textit_5_Aproksymacja_operator_w__.tex
 textit_6_Metody_r_nicowe__.tex
