@@ -1,5 +1,5 @@
 untitled.tex
-section_2_R_wnanie_r__.tex
+section_R_wnanie_r_niczowe__.tex
 section_3_Zadania_poprawnie_postawione__.tex
 section_4_Metody_r_nicowe__.tex
 section_5_Aproksymacja_operator_w__.tex
