@@ -1,1 +1,17 @@
 \section{Aproksymacja operatora d'Alemberta (schemat jawny, niejawny, rząd metody)}
+
+$L = \frac{\partial ^2}{partial t^2} - frac{\partial ^2}{\partial x^2}$
+
+$u_{tt} = u_{xx}$ + warunki brzegowe + warunki początkowe
+
+$\left\{\begin{matrix} B_T u(x,0) = p(x) \\ B_L u_t(x,0) = g(x) \end{matrix}\right.$
+
+Rodzina schematów
+
+\[ L_{h\tau}v^n = \frac{1}{h^2}(v^{n+1} - 2v^n + v^{n+1}) - L_h(\alpha v^{n+1} + (1-2\alpha)v^n + \alpha v^{n-1})\ \ \ \ 0 \leqslant \alpha \leqslant \frac{1}{2}\]
+
+$\alpha = 0 \rightarrow$ schemat jawny
+
+$\alpha = \frac{1}{2} \rightarrow$ schemat C-N
+
+$\alpha = \frac{1}{4} \rightarrow$ schemat Richtmyer-Morton
