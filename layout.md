@@ -4,6 +4,7 @@ section_Zadania_poprawnie_postawione_Przyk__.tex
 section_Metody_r_nicowe_rozwi__.tex
 section_Aproksymacja_operator_w_r__.tex
 section_Metody_r_nicowe_b__.tex
+marquee_umiem_D_marquee__.html
 section_Twierdzenie_Laxa_Filippowa_o__.tex
 section_Aproksymacja_operatora_Laplace_a__.tex
 section_Aproksymacja_dla_r_wnania__.tex
