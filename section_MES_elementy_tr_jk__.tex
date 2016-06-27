@@ -31,3 +31,65 @@ $\wedge_{ij} (\xi, \nu) = \alpha _i(\xi) \alpha _j(\nu)$
 $V_k \subset c_I^\wedge (\bar{D})$
 
 są wzory... (?:D)
+
+\subsection{elementy trójkątne}
+
+Niech $\bar{D}$ będzie sumą pewnej liczby trójkątów które mają wspólny bok albo wspólny wierzchołek albo soą rozłączne
+
+Trójkąty Lagrange'a (1-go stopnia)
+
+Niech $e_1,...,e_E$ trójąty siatki
+
+$P_1,...P_{mw}$ wierzchołki trójkątów
+
+$V_k$ tworzymy następująco:
+
+1) zadajemy dowolne wartości $u \in V_h$ w węzłach $P_i$
+
+2) zacieśnienie $u \in V_h$ do całego trójkąta jest postaci $ax+by+c$
+
+Tw. $V_h \subset C_I^1(\bar{D})$ kawałkami(?)
+
+zacieśnienie:
+
+$u: \bar{D} \rightarrow \mathbb{R}$
+
+$u|_{ek} - to jest zacieśnienie = zawężenie (to samo)
+
+Trójkąty Hermite'a (5-go stopnia)
+
+Niech $P_1,P_2,...$ - wierzchołki trójkątów triangulacji
+
+$l_1, l_2,...$ - boki
+
+$s_1, s_2$ - środki boków
+
+$\eta _k$ - wektor normalny do krawędzi $l_k$
+
+$l_k = \bar{P_iP_j} i > j$
+
+$(l_k,\eta_k) > 0$
+
+Dla wierzchołków definiujemy 6 stopni swobody
+
+$F_{i1}(f) = f(P_i)$
+
+$F_{i2}(f) = \frac{\partial f}{\partial x}(P_i)$
+
+$F_{i3}(f) = \frac{\partial f}{\partial y}(P_i)$
+
+$F_{i4}(f) = \frac{\partial^2 f}{\partial x^2}(P_i)$
+
+$F_{i5}(f) = \frac{\partial^2 f}{\partial x \partial y}(P_i)$
+
+$F_{i6}(f) = \frac{\partial^2 f}{\partial y^2}(P_i)$
+
+Każdemu środkowi boku $S_i$ przyporządkowujemy
+
+$F_k(f) = \frac{\partial f}{\partial \eta_k}(s_i)$
+
+$V_h określamy następująco
+
+1) dla $u \in V_h$ zadajemy wartości $F_{ij}(u), F_k(h), \forall i,j,k$
+
+2) $u$ zawężając do pojedynczego trójkąta jest wielomianem stopnia 5
